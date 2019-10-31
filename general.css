@@ -1,6 +1,8 @@
 
 <style>
 
+#footer, #headerContainer, #smallSearchContainer {
+background-image: linear-gradient(to right, #2a4792, #35499b, #414aa3, #4e4bab, #5b4cb3, #5257be, #4862c7, #3c6dd0, #0081d6, #0092d5, #00a1d1, #42aecb);
 #mainNav {
  font-family: 'Oswald', sans-serif
 }
